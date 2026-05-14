@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{DBAE2A2F-ADED-4CF5-A24B-2A479D9BED6F}",
     "Language": "SFX",
-    "Hash": "{01B7C42C-9F50-4632-545D-3AEA71B2B58C}",
+    "Hash": "{5650C0A7-7904-0E8C-3794-FC7698B0FB3E}",
     "ObjectPath": "Play_AMB_2D_EXT_GEN",
     "ShortName": "Play_AMB_2D_EXT_GEN",
     "Path": "Event/Play_AMB_2D_EXT_GEN.bnk",
@@ -22,7 +22,7 @@
       "Location": "Loose",
       "ShortName": "AMB_2D_EXT_GEN.wav",
       "Path": "Media/482822576.wem",
-      "CachePath": "82/{82A24E0C-5E17-92A5-9C50-EF3DDD82E830}.wem"
+      "CachePath": "EB/{EB8A0970-6B03-1B40-3A53-7B3B852EBF5F}.wem"
      }
     ],
     "Events": [
@@ -31,9 +31,10 @@
       "Name": "Play_AMB_2D_EXT_GEN",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_AMB_2D_EXT_GEN",
       "GUID": "{DBAE2A2F-ADED-4CF5-A24B-2A479D9BED6F}",
+      "MaxAttenuation": "5000",
       "DurationType": "OneShot",
-      "DurationMin": "0",
-      "DurationMax": "0",
+      "DurationMin": "30",
+      "DurationMax": "30",
       "MediaRefs": [
        {
         "Id": "482822576"
@@ -43,6 +44,6 @@
     ]
    }
   ],
-  "FileHash": "{1B172AB9-B608-6EB7-F013-8AD2D1A54FB3}"
+  "FileHash": "{CDDCA947-280A-53BB-9B8D-508207489559}"
  }
 }
